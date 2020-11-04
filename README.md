@@ -1,4 +1,4 @@
 <h2>Flutter için Kütüphaneler/Frameworks</h2>
 
 <h3>&#10070; Mesajlar / Uyarılar / Diyaloglar </font></h2>
-<a href="https://github.com/sososdk/flash">► Flash: <a>Hızlı ve kolay bir şekilde mesajlar/uyarılar göstermeyi sağlar. Ayrıca Snackbar, Toast Mesaj ve Diyalog Mesajlarını özelleştirerek bir çok seçenek sunmaktadır.
+<a href="https://github.com/sososdk/flash">► Flash: <a>Hızlı ve kolay bir şekilde mesajlar/uyarılar göstermeyi sağlar. Ayrıca Snackbar, Toast Mesaj ve Diyalog Mesajlarını özelleştirerek birçok seçenek sunmaktadır.
