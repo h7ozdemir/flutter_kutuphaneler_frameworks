@@ -6,5 +6,6 @@
 <br/>
 <a href="https://github.com/phijma/tasty_toast">► Tasty Toast: </a>Basit bir şekilde tost mesaj gösterimini yapar. Hizalama yönünü belirterek ekranda istenilen yerde gösterimini sağlayabilirsiniz.
 <br/>
-<h2>&#10070; Açılır Menüler /Popup Menus </font></h2>
-<a href="https://github.com/saket/cascade/">► Cascade: </a>Hızlıca güzel ve sade açılır menüler oluşturmak için ideal. İç içe menülerde oluşturulabilir.<br/>
+<h2>&#10070; Açılır Menüler / Popup Menus </font></h2>
+<a href="https://github.com/saket/cascade/">► Cascade: </a>Hızlıca güzel ve sade açılır menüler oluşturmak için ideal. İç içe menülerde oluşturulabilir.
+<br/>
