@@ -10,5 +10,7 @@
 <a href="https://github.com/saket/cascade/">► Cascade: </a>Hızlıca güzel ve sade açılır menüler oluşturmak için ideal. İç içe menülerde oluşturulabilir.
 <br/>
 <h2>&#10070; TabBar </font></h2>
-<a href="https://github.com/Afonsocraposo/buttons_tabbar/">► Buttons TabBar: </a> TabBar Menüsünü butonlar ile oluşturabilir ve kayan bir tab-menü yapabilirsiniz.
+<a href="https://github.com/Afonsocraposo/buttons_tabbar/">► Buttons TabBar: </a>TabBar Menüsünü butonlar ile oluşturabilir ve kayan bir tab-menü yapabilirsiniz.
+<br/>
+<a href="https://github.com/slovnicki/contained_tab_bar_view/">► ContainedTabBarView: </a>Bir Konteynır içinde özel tabBar yapıları oluşturabilirsiniz.
 <br/>
