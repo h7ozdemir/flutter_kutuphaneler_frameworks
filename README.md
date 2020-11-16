@@ -19,3 +19,6 @@
 <br/>
 <a href="https://github.com/chrisedg87/flutter_rounded_loading_button/">► Rounded Loading Button: </a>Tıklama/Yükleme/Onaylama gibi işlemleri hem animasyonlu hemde bir arada gösteren buton bileşenidir.<br/>
 <a href="https://github.com/slm/progress-state-button/">► Progress State Button: </a>Tıklama/Yükleme/Onaylama gibi işlemleri hem animasyonlu hemde bir arada gösteren buton bileşenidir.<br/>
+<a href="https://github.com/anirudhsharma392/Slider-Button/">► Slider Button: </a>Kaydırma yaparak açık/kapalı mantığında çalışan buton bileşeni.<br/>
+<a href="https://github.com/jiangyang5157/flutter_progress_button/">► Flutter Progress Button: </a>Tıklama/Yükleme/Onaylama gibi işlemleri hem animasyonlu hemde bir arada gösteren buton bileşenidir.<br/>
+<a href="https://github.com/ZaynJarvis/Flutter-Sign-in-Button/">► Flutter Sign in Button: </a>Sosyal Medya hesapları ile giriş seçeneklerini sunan buton listesi (Facebook, Google, Twitter, Apple vs.)<br/>
