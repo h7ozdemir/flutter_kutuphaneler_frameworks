@@ -5,7 +5,7 @@
 <a href="https://github.com/AndreHaueisen/flushbar">► Flushbar: </a>Çok yönlü özelleştirilebilir iletiler göstermeyi sağlar. Hızlı, sade ve kolay kullanım.<br/>
 <a href="https://github.com/phijma/tasty_toast">► Tasty Toast: </a>Basit bir şekilde tost mesaj gösterimini yapar. Hizalama yönünü belirterek ekranda istenilen yerde gösterimini sağlayabilirsiniz.<br/>
 <a href="https://github.com/RatelHub/rflutter_alert">► RFlutter Alert: </a>Kullanımı kolay, özelleştirilebilir uyarılar oluşurmak için.<br/>
-<a href="https://github.com/YYFlutter/flutter-custom-dialog">► Flutter Custom Dialog: </a>Farklı animasyon ve gösterim şekilleriyle ile özelleştirilebilir uyarılar tasarlayabilirsiniz.<br/>
+<a href="https://github.com/YYFlutter/flutter-custom-dialog">► Flutter Custom Dialog: </a>Farklı animasyon ve gösterim şekilleriyle özelleştirilebilir uyarılar tasarlayabilirsiniz.<br/>
 
 <h2>&#10070; Açılır Menüler / Popup Menus </font></h2>
 <a href="https://github.com/saket/cascade/">► Cascade: </a>Hızlıca güzel ve sade açılır menüler oluşturmak için ideal. İç içe menülerde oluşturulabilir.
